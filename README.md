@@ -21,5 +21,5 @@ MongoDB injection example
 
 # Example
 
-![Screenshot](images/Screenshot_1.png)
+![Screenshot](https://i.imgur.com/etHGZgN.png)
 
